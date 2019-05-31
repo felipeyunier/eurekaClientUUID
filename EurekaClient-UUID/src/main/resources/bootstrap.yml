@@ -1,0 +1,6 @@
+spring :
+   cloud :
+     config :
+        uri : https://github.com/felipeyunier/propertiesConfigServe
+        discovery:
+            enabled: true 
